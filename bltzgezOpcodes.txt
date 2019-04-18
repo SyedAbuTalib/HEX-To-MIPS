@@ -1,0 +1,4 @@
+00000 bltz
+00001 bgez
+10000 bltzal
+10001 bgezal
